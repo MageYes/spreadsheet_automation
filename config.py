@@ -22,7 +22,45 @@ etfs_hedge_date_dict = {
         'FX': 'QDIImid_random__T+1'
     },
 }
+etfs_calendar_dict = {
+    '513010': ['SSE', 'HKEX'],
+    '513180': ['SSE', 'HKEX'],
+    '513380': ['SSE', 'HKEX'],
+    '159920': ['SSE', 'HKEX'],
+    '513580': ['SSE', 'HKEX'],
+}
+hedge_info = {
+    '513010': {
+        'index': 'HSTECH',
+        'index_future_marker': '',
+        'multiplier': 50,
+        'currency_pair': 'CNH/USD'
+    },
+    '513180': {
+        'index': 'HSTECH',
+        'index_future_marker': '',
+        'multiplier': 50,
+        'currency_pair': 'CNH/USD'
+    },
+    '513380': {
+        'index': 'HSTECH',
+        'index_future_marker': '',
+        'multiplier': 50,
+        'currency_pair': 'CNH/USD'
+    },
+    '159920': {
+        'index': 'HSI',
+        'index_future_marker': '',
+        'multiplier': 10,
+        'currency_pair': 'CNH/USD'
+    },
+    '513580': {
+        'index': 'HSTECH',
+        'index_future_marker': '',
+        'multiplier': 10,
+        'currency_pair': 'CNH/USD'
+    },
+}
 start_date = pd.Timestamp('2023-05-01')
 end_date = pd.Timestamp('2028-12-31')
-#excel_path = 'shared_folder/spreadsheet_automation.xlsx'
 excel_path = 'spreadsheet_automation.xlsx'

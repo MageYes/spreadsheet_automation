@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36f1ccfd-f264-4863-953b-2a2b0e64556d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/spreadsheet_automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spreadsheet_automation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interact with Excel from Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/handle.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spreadsheet_automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/spreadsheet_automation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spreadsheet_automation.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/spreadsheet_automation.xlsx" afterDir="false" />
     </list>
