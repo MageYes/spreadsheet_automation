@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="36f1ccfd-f264-4863-953b-2a2b0e64556d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/handle-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/handle-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/handle.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/handle.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spreadsheet_automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/spreadsheet_automation.py" afterDir="false" />
@@ -80,5 +80,16 @@
       <updated>1684293420918</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

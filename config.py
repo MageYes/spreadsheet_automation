@@ -32,35 +32,31 @@ etfs_calendar_dict = {
 hedge_info = {
     '513010': {
         'index': 'HSTECH',
-        'index_future_marker': '',
+        'index_future_marker': 'HTI',
         'multiplier': 50,
-        'currency_pair': 'CNH/USD'
     },
     '513180': {
         'index': 'HSTECH',
-        'index_future_marker': '',
+        'index_future_marker': 'HTI',
         'multiplier': 50,
-        'currency_pair': 'CNH/USD'
     },
     '513380': {
         'index': 'HSTECH',
-        'index_future_marker': '',
+        'index_future_marker': 'HTI',
         'multiplier': 50,
-        'currency_pair': 'CNH/USD'
     },
     '159920': {
         'index': 'HSI',
-        'index_future_marker': '',
+        'index_future_marker': 'MHI',
         'multiplier': 10,
-        'currency_pair': 'CNH/USD'
     },
     '513580': {
         'index': 'HSTECH',
-        'index_future_marker': '',
+        'index_future_marker': 'HTI',
         'multiplier': 10,
-        'currency_pair': 'CNH/USD'
     },
 }
+currency_pair = ['', 'USDCNH']
 start_date = pd.Timestamp('2023-05-01')
 end_date = pd.Timestamp('2028-12-31')
 excel_path = 'spreadsheet_automation.xlsx'
